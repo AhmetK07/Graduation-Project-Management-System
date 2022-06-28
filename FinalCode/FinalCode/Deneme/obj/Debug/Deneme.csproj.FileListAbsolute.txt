@@ -1,0 +1,1343 @@
+C:\Users\ahmet\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\Deneme.dll.config
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\Deneme.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\Deneme.pdb
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\csc.exe
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\csc.exe.config
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\csc.rsp
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\csi.exe
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\csi.exe.config
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\csi.rsp
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Console.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\vbc.exe
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\vbc.rsp
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.Helpers.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.Mvc.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.Optimization.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.Razor.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.WebPages.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\WebGrease.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.Helpers.xml
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.Mvc.xml
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.Optimization.xml
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.Razor.xml
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.WebPages.xml
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmet\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\ahmet\source\repos\Deneme\Deneme\obj\Debug\Deneme.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\EntityFramework.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\EntityFramework.xml
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\Deneme.dll.config
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\Deneme.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\Deneme.pdb
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\csc.exe
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\csc.exe.config
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\csc.rsp
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\csi.exe
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\csi.exe.config
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\csi.rsp
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Console.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\vbc.exe
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\vbc.rsp
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\EntityFramework.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.Helpers.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.Mvc.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.Optimization.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.Razor.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.WebPages.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\WebGrease.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\EntityFramework.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.Helpers.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.Mvc.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.Optimization.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.Razor.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.WebPages.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\obj\Debug\Deneme.dll
+C:\Users\team1\Desktop\Ahmet\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\team1\source\repos\Deneme\Deneme\bin\Deneme.dll.config
+C:\Users\team1\source\repos\Deneme\Deneme\bin\Deneme.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\Deneme.pdb
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\csc.exe
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\csc.exe.config
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\csc.rsp
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\csi.exe
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\csi.exe.config
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\csi.rsp
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Console.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\vbc.exe
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\vbc.rsp
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\team1\source\repos\Deneme\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\team1\source\repos\Deneme\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\EntityFramework.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.Helpers.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.Mvc.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.Optimization.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.Razor.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.WebPages.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\WebGrease.dll
+C:\Users\team1\source\repos\Deneme\Deneme\bin\EntityFramework.xml
+C:\Users\team1\source\repos\Deneme\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.Helpers.xml
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.Mvc.xml
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.Optimization.xml
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.Razor.xml
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.WebPages.xml
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\team1\source\repos\Deneme\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\team1\source\repos\Deneme\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\team1\source\repos\Deneme\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\team1\source\repos\Deneme\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\team1\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\team1\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\team1\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\team1\source\repos\Deneme\Deneme\obj\Debug\Deneme.dll
+C:\Users\team1\source\repos\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\team1\source\repos\Deneme\Deneme\bin\WebDriver.dll
+C:\Users\ahmet\source\repos\Deneme\Deneme\bin\WebDriver.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\Deneme.dll.config
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\Deneme.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\Deneme.pdb
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\csc.exe
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\csi.exe
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\EntityFramework.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\WebDriver.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\WebGrease.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\EntityFramework.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\obj\Debug\Deneme.dll
+C:\Users\user\Desktop\nolurson\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\Deneme.dll.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\Deneme.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\Deneme.pdb
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\csc.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\csi.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\EntityFramework.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\WebDriver.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\WebGrease.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\EntityFramework.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\obj\Debug\Deneme.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\obj\Debug\Deneme.pdb
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCode\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\team1\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek 2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\user\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\ahmet\OneDrive\Masaüstü\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\emrec\Desktop\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\team1\Desktop\DENEMELIK\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project2\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\team1\Desktop\YENIPROJE\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\ahmet\OneDrive\Masaüstü\Pres\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\MSI VATANCOMPUTER\Desktop\project4\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll.config
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Deneme.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csc.rsp
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\csi.rsp
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.AppContext.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Console.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\vbc.rsp
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebDriver.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\WebGrease.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Helpers.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Mvc.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Optimization.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.Razor.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Newtonsoft.Json.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Antlr3.Runtime.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.csproj.CopyComplete
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.dll
+C:\Users\ahmet\OneDrive\Masaüstü\MergedCodeSon\1900003468_1800004193_1900005528_MergedCodedeğişecek\Deneme\obj\Debug\Deneme.pdb

@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GraduationProjectManagementDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AnnouncementTbl">
+    <Key>
+      <PropertyRef Name="AnnouncementID" />
+    </Key>
+    <Property Name="AnnouncementID" Type="int" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Assistan_ProjectTbl">
+    <Key>
+      <PropertyRef Name="Assistant_ProjectID" />
+    </Key>
+    <Property Name="Assistant_ProjectID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AssitantID" Type="int" Nullable="false" />
+    <Property Name="ProjectID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AssistantTbl">
+    <Key>
+      <PropertyRef Name="AssistantID" />
+    </Key>
+    <Property Name="AssistantID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AssistantName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AssistantSurname" Type="nvarchar" MaxLength="9" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MobilePhone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AssistantPhoto" Type="nvarchar" MaxLength="9" />
+    <Property Name="AssignProject" Type="int" />
+  </EntityType>
+  <EntityType Name="DaysTable">
+    <Key>
+      <PropertyRef Name="Total" />
+    </Key>
+    <Property Name="Total" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="JuryID" Type="int" />
+    <Property Name="AvaibilityInfo" Type="varchar" MaxLength="20" />
+    <Property Name="DayNumber" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DepartmentTbl">
+    <Key>
+      <PropertyRef Name="DepartmentID" />
+    </Key>
+    <Property Name="DepartmentID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DepartmentName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="OfficeNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AssignFaculty" Type="int" Nullable="false" />
+    <Property Name="OfficePhoneNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FacultyTbl">
+    <Key>
+      <PropertyRef Name="FacultyID" />
+    </Key>
+    <Property Name="FacultyID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FacultyName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="OfficeNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="OfficePhoneNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FeedbackTbl">
+    <Key>
+      <PropertyRef Name="FeedbackID" />
+    </Key>
+    <Property Name="FeedbackID" Type="int" Nullable="false" />
+    <Property Name="AssignProject" Type="int" Nullable="false" />
+    <Property Name="AssignStudent" Type="int" Nullable="false" />
+    <Property Name="FeedBackSubject" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FeedBackMessage" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ReceivedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GradeTbl">
+    <Key>
+      <PropertyRef Name="GradeID" />
+    </Key>
+    <Property Name="GradeID" Type="int" Nullable="false" />
+    <Property Name="AssignFaculty" Type="int" Nullable="false" />
+    <Property Name="AssignStudent" Type="int" Nullable="false" />
+    <Property Name="LetterGrade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AverageGrade" Type="int" Nullable="false" />
+    <Property Name="FirstNumericalGrade" Type="int" Nullable="false" />
+    <Property Name="SecondNumericalGrade" Type="int" Nullable="false" />
+    <Property Name="ThirdNumericalGrade" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Group_ProjectTbl">
+    <Key>
+      <PropertyRef Name="Group_ProjectID" />
+    </Key>
+    <Property Name="Group_ProjectID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AssignGroupID" Type="int" Nullable="false" />
+    <Property Name="AssignProjectID" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" />
+  </EntityType>
+  <EntityType Name="GroupRatingResultTbl">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AssignGroup" Type="int" />
+    <Property Name="TotalRating" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="GroupTbl">
+    <Key>
+      <PropertyRef Name="GroupID" />
+    </Key>
+    <Property Name="GroupID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GroupName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UploadReport" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="JuriesTbl">
+    <Key>
+      <PropertyRef Name="JuryID" />
+    </Key>
+    <Property Name="JuryID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="JuryName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DateInfo" Type="int" />
+    <Property Name="AvabilityInfo" Type="int" />
+    <Property Name="AssignProjectID" Type="int" />
+    <Property Name="AssignVoteID" Type="int" />
+  </EntityType>
+  <EntityType Name="Jury_GroupTbl">
+    <Key>
+      <PropertyRef Name="JuryGroupID" />
+    </Key>
+    <Property Name="JuryGroupID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="JuryID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+  </EntityType>
+  <EntityType Name="Jury_ProfessorTbl">
+    <Key>
+      <PropertyRef Name="JuryProfessorID" />
+    </Key>
+    <Property Name="JuryProfessorID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="JuryID" Type="int" />
+    <Property Name="ProfessorID" Type="int" />
+  </EntityType>
+  <EntityType Name="MobileAppTbl">
+    <Key>
+      <PropertyRef Name="VoteId" />
+    </Key>
+    <Property Name="VoteId" Type="int" Nullable="false" />
+    <Property Name="VoteTitle" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="VoteDescription" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Rating" Type="int" Nullable="false" />
+    <Property Name="VoteStartDate" Type="datetime" Nullable="false" />
+    <Property Name="VoteEndDate" Type="datetime" Nullable="false" />
+    <Property Name="AssignProfessor" Type="int" />
+    <Property Name="VoteStatus" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PresentationsTbl">
+    <Key>
+      <PropertyRef Name="PresentationID" />
+    </Key>
+    <Property Name="PresentationID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProjectName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PresentationDate" Type="int" Nullable="false" />
+    <Property Name="MinuteInfo" Type="int" Nullable="false" />
+    <Property Name="AssignJuryID" Type="varchar" MaxLength="20" />
+    <Property Name="AssignGroupID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Professor_ProjectTbl">
+    <Key>
+      <PropertyRef Name="Professor_ProjectID" />
+    </Key>
+    <Property Name="Professor_ProjectID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProfessorID" Type="int" Nullable="false" />
+    <Property Name="ProjectID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProfessorTbl">
+    <Key>
+      <PropertyRef Name="ProfessorID" />
+    </Key>
+    <Property Name="ProfessorID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProfessorUsername" Type="varchar" MaxLength="50" />
+    <Property Name="ProfessorName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ProfessorSurname" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MobilePhone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ProfessorPrerequisites" Type="nvarchar" MaxLength="50" />
+    <Property Name="ProfessorPhoto" Type="nvarchar" MaxLength="500" />
+    <Property Name="UploadFile" Type="nvarchar" MaxLength="50" />
+    <Property Name="AssignAssistan" Type="int" />
+    <Property Name="AssignFaculty" Type="int" />
+    <Property Name="AssignProject" Type="int" />
+  </EntityType>
+  <EntityType Name="ProjectTbl">
+    <Key>
+      <PropertyRef Name="ProjectID" />
+    </Key>
+    <Property Name="ProjectID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProjectName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ProjectDescription" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ProjectUploadFile" Type="nvarchar" MaxLength="500" />
+    <Property Name="ProjectStartDate" Type="datetime" />
+    <Property Name="ProjectEndDate" Type="datetime" />
+    <Property Name="ProjectMaxCapacity" Type="int" />
+  </EntityType>
+  <EntityType Name="QuestionTbl">
+    <Key>
+      <PropertyRef Name="QuestionID" />
+    </Key>
+    <Property Name="QuestionID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="QuestionSubject" Type="nvarchar" MaxLength="50" />
+    <Property Name="QuestionDescription" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Student_GroupTbl">
+    <Key>
+      <PropertyRef Name="StudentGroupID" />
+    </Key>
+    <Property Name="StudentGroupID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AssignStudentID" Type="int" Nullable="false" />
+    <Property Name="AssignStudentID2" Type="int" />
+    <Property Name="AssignGroupID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Student_ProjectTbl">
+    <Key>
+      <PropertyRef Name="Student_ProjectID" />
+    </Key>
+    <Property Name="Student_ProjectID" Type="int" Nullable="false" />
+    <Property Name="StudentID" Type="int" Nullable="false" />
+    <Property Name="ProjectID" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" />
+  </EntityType>
+  <EntityType Name="StudentTbl">
+    <Key>
+      <PropertyRef Name="StudentID" />
+    </Key>
+    <Property Name="StudentID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StudentNumber" Type="nvarchar" MaxLength="50" />
+    <Property Name="StudentEmail" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="StudentName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="StudentSurname" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="StudentPhoto" Type="nvarchar" MaxLength="50" />
+    <Property Name="StudentPhone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AssignProject" Type="int" />
+    <Property Name="AssignProfessor" Type="int" />
+    <Property Name="RemainAppeal" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TaskTbl">
+    <Key>
+      <PropertyRef Name="TaskID" />
+    </Key>
+    <Property Name="TaskID" Type="int" Nullable="false" />
+    <Property Name="TaskName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="TaskStatus" Type="int" Nullable="false" />
+    <Property Name="AssignStudent" Type="int" Nullable="false" />
+    <Property Name="AssignProject" Type="int" Nullable="false" />
+    <Property Name="UploadFile" Type="nvarchar" MaxLength="16" Nullable="false" />
+    <Property Name="TotalHourse" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TurnitinTbl">
+    <Key>
+      <PropertyRef Name="TurnitinID" />
+    </Key>
+    <Property Name="TurnitinID" Type="int" Nullable="false" />
+    <Property Name="AssignGroup" Type="int" />
+    <Property Name="TurnitinResult" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Role" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="VoteTbl">
+    <Key>
+      <PropertyRef Name="VoteID" />
+    </Key>
+    <Property Name="VoteID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VoteDescription" Type="nvarchar" MaxLength="50" />
+    <Property Name="Rating" Type="int" />
+    <Property Name="VoteDescription2" Type="nvarchar" MaxLength="50" />
+    <Property Name="Rating2" Type="int" />
+    <Property Name="VoteDescription3" Type="nvarchar" MaxLength="50" />
+    <Property Name="Rating3" Type="int" />
+    <Property Name="CommentedOn" Type="datetime" />
+    <Property Name="AssignGroup" Type="int" />
+  </EntityType>
+  <Association Name="FK__DaysTable__JuryI__39AD8A7F">
+    <End Role="JuriesTbl" Type="Self.JuriesTbl" Multiplicity="0..1" />
+    <End Role="DaysTable" Type="Self.DaysTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="JuriesTbl">
+        <PropertyRef Name="JuryID" />
+      </Principal>
+      <Dependent Role="DaysTable">
+        <PropertyRef Name="JuryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Assistan_ProjectTbl_AssistantTbl">
+    <End Role="AssistantTbl" Type="Self.AssistantTbl" Multiplicity="1" />
+    <End Role="Assistan_ProjectTbl" Type="Self.Assistan_ProjectTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AssistantTbl">
+        <PropertyRef Name="AssistantID" />
+      </Principal>
+      <Dependent Role="Assistan_ProjectTbl">
+        <PropertyRef Name="AssitantID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Assistan_ProjectTbl_ProjectTbl">
+    <End Role="ProjectTbl" Type="Self.ProjectTbl" Multiplicity="1" />
+    <End Role="Assistan_ProjectTbl" Type="Self.Assistan_ProjectTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="Assistan_ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AssistantTbl_ProjectTbl">
+    <End Role="ProjectTbl" Type="Self.ProjectTbl" Multiplicity="0..1" />
+    <End Role="AssistantTbl" Type="Self.AssistantTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="AssistantTbl">
+        <PropertyRef Name="AssignProject" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DepartmentTbl_FacultyTbl">
+    <End Role="FacultyTbl" Type="Self.FacultyTbl" Multiplicity="1" />
+    <End Role="DepartmentTbl" Type="Self.DepartmentTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FacultyTbl">
+        <PropertyRef Name="FacultyID" />
+      </Principal>
+      <Dependent Role="DepartmentTbl">
+        <PropertyRef Name="AssignFaculty" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FeedbackTbl_ProjectTbl">
+    <End Role="ProjectTbl" Type="Self.ProjectTbl" Multiplicity="1" />
+    <End Role="FeedbackTbl" Type="Self.FeedbackTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="FeedbackTbl">
+        <PropertyRef Name="AssignProject" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FeedbackTbl_StudentTbl">
+    <End Role="StudentTbl" Type="Self.StudentTbl" Multiplicity="1" />
+    <End Role="FeedbackTbl" Type="Self.FeedbackTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StudentTbl">
+        <PropertyRef Name="StudentID" />
+      </Principal>
+      <Dependent Role="FeedbackTbl">
+        <PropertyRef Name="AssignStudent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GradeTbl_FacultyTbl">
+    <End Role="FacultyTbl" Type="Self.FacultyTbl" Multiplicity="1" />
+    <End Role="GradeTbl" Type="Self.GradeTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FacultyTbl">
+        <PropertyRef Name="FacultyID" />
+      </Principal>
+      <Dependent Role="GradeTbl">
+        <PropertyRef Name="AssignFaculty" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GradeTbl_StudentTbl">
+    <End Role="StudentTbl" Type="Self.StudentTbl" Multiplicity="1" />
+    <End Role="GradeTbl" Type="Self.GradeTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StudentTbl">
+        <PropertyRef Name="StudentID" />
+      </Principal>
+      <Dependent Role="GradeTbl">
+        <PropertyRef Name="AssignStudent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Group_ProjectTbl_GroupTbl">
+    <End Role="GroupTbl" Type="Self.GroupTbl" Multiplicity="1" />
+    <End Role="Group_ProjectTbl" Type="Self.Group_ProjectTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GroupTbl">
+        <PropertyRef Name="GroupID" />
+      </Principal>
+      <Dependent Role="Group_ProjectTbl">
+        <PropertyRef Name="AssignGroupID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Group_ProjectTbl_ProjectTbl">
+    <End Role="ProjectTbl" Type="Self.ProjectTbl" Multiplicity="1" />
+    <End Role="Group_ProjectTbl" Type="Self.Group_ProjectTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="Group_ProjectTbl">
+        <PropertyRef Name="AssignProjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PresentationsTbl_GroupTbl">
+    <End Role="GroupTbl" Type="Self.GroupTbl" Multiplicity="1" />
+    <End Role="PresentationsTbl" Type="Self.PresentationsTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GroupTbl">
+        <PropertyRef Name="GroupID" />
+      </Principal>
+      <Dependent Role="PresentationsTbl">
+        <PropertyRef Name="AssignGroupID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Professor_ProjectTbl_ProfessorTbl">
+    <End Role="ProfessorTbl" Type="Self.ProfessorTbl" Multiplicity="1" />
+    <End Role="Professor_ProjectTbl" Type="Self.Professor_ProjectTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProfessorTbl">
+        <PropertyRef Name="ProfessorID" />
+      </Principal>
+      <Dependent Role="Professor_ProjectTbl">
+        <PropertyRef Name="ProfessorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Professor_ProjectTbl_ProjectTbl">
+    <End Role="ProjectTbl" Type="Self.ProjectTbl" Multiplicity="1" />
+    <End Role="Professor_ProjectTbl" Type="Self.Professor_ProjectTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="Professor_ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProfessorTbl_AssistantTbl">
+    <End Role="AssistantTbl" Type="Self.AssistantTbl" Multiplicity="0..1" />
+    <End Role="ProfessorTbl" Type="Self.ProfessorTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AssistantTbl">
+        <PropertyRef Name="AssistantID" />
+      </Principal>
+      <Dependent Role="ProfessorTbl">
+        <PropertyRef Name="AssignAssistan" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProfessorTbl_FacultyTbl">
+    <End Role="FacultyTbl" Type="Self.FacultyTbl" Multiplicity="0..1" />
+    <End Role="ProfessorTbl" Type="Self.ProfessorTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FacultyTbl">
+        <PropertyRef Name="FacultyID" />
+      </Principal>
+      <Dependent Role="ProfessorTbl">
+        <PropertyRef Name="AssignFaculty" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_GroupTbl_GroupTbl">
+    <End Role="GroupTbl" Type="Self.GroupTbl" Multiplicity="1" />
+    <End Role="Student_GroupTbl" Type="Self.Student_GroupTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GroupTbl">
+        <PropertyRef Name="GroupID" />
+      </Principal>
+      <Dependent Role="Student_GroupTbl">
+        <PropertyRef Name="AssignGroupID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_GroupTbl_StudentTbl">
+    <End Role="StudentTbl" Type="Self.StudentTbl" Multiplicity="1" />
+    <End Role="Student_GroupTbl" Type="Self.Student_GroupTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StudentTbl">
+        <PropertyRef Name="StudentID" />
+      </Principal>
+      <Dependent Role="Student_GroupTbl">
+        <PropertyRef Name="AssignStudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_ProjectTbl_ProjectTbl">
+    <End Role="ProjectTbl" Type="Self.ProjectTbl" Multiplicity="1" />
+    <End Role="Student_ProjectTbl" Type="Self.Student_ProjectTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="Student_ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_ProjectTbl_ProjectTbl1">
+    <End Role="ProjectTbl" Type="Self.ProjectTbl" Multiplicity="1" />
+    <End Role="Student_ProjectTbl" Type="Self.Student_ProjectTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="Student_ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_ProjectTbl_StudentTbl">
+    <End Role="StudentTbl" Type="Self.StudentTbl" Multiplicity="1" />
+    <End Role="Student_ProjectTbl" Type="Self.Student_ProjectTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StudentTbl">
+        <PropertyRef Name="StudentID" />
+      </Principal>
+      <Dependent Role="Student_ProjectTbl">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudentTbl_ProfessorTbl">
+    <End Role="ProfessorTbl" Type="Self.ProfessorTbl" Multiplicity="0..1" />
+    <End Role="StudentTbl" Type="Self.StudentTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProfessorTbl">
+        <PropertyRef Name="ProfessorID" />
+      </Principal>
+      <Dependent Role="StudentTbl">
+        <PropertyRef Name="AssignProfessor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudentTbl_ProjectTbl">
+    <End Role="ProjectTbl" Type="Self.ProjectTbl" Multiplicity="0..1" />
+    <End Role="StudentTbl" Type="Self.StudentTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="StudentTbl">
+        <PropertyRef Name="AssignProject" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TaskTbl_ProjectTbl">
+    <End Role="ProjectTbl" Type="Self.ProjectTbl" Multiplicity="1" />
+    <End Role="TaskTbl" Type="Self.TaskTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProjectTbl">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="TaskTbl">
+        <PropertyRef Name="AssignProject" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TaskTbl_StudentTbl">
+    <End Role="StudentTbl" Type="Self.StudentTbl" Multiplicity="1" />
+    <End Role="TaskTbl" Type="Self.TaskTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StudentTbl">
+        <PropertyRef Name="StudentID" />
+      </Principal>
+      <Dependent Role="TaskTbl">
+        <PropertyRef Name="AssignStudent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TurnitinTbl_GroupTbl">
+    <End Role="GroupTbl" Type="Self.GroupTbl" Multiplicity="0..1" />
+    <End Role="TurnitinTbl" Type="Self.TurnitinTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GroupTbl">
+        <PropertyRef Name="GroupID" />
+      </Principal>
+      <Dependent Role="TurnitinTbl">
+        <PropertyRef Name="AssignGroup" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GraduationProjectManagementDBModelStoreContainer">
+    <EntitySet Name="AnnouncementTbl" EntityType="Self.AnnouncementTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Assistan_ProjectTbl" EntityType="Self.Assistan_ProjectTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AssistantTbl" EntityType="Self.AssistantTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DaysTable" EntityType="Self.DaysTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DepartmentTbl" EntityType="Self.DepartmentTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FacultyTbl" EntityType="Self.FacultyTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FeedbackTbl" EntityType="Self.FeedbackTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GradeTbl" EntityType="Self.GradeTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Group_ProjectTbl" EntityType="Self.Group_ProjectTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GroupRatingResultTbl" EntityType="Self.GroupRatingResultTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GroupTbl" EntityType="Self.GroupTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="JuriesTbl" EntityType="Self.JuriesTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Jury_GroupTbl" EntityType="Self.Jury_GroupTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Jury_ProfessorTbl" EntityType="Self.Jury_ProfessorTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MobileAppTbl" EntityType="Self.MobileAppTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PresentationsTbl" EntityType="Self.PresentationsTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Professor_ProjectTbl" EntityType="Self.Professor_ProjectTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProfessorTbl" EntityType="Self.ProfessorTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProjectTbl" EntityType="Self.ProjectTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QuestionTbl" EntityType="Self.QuestionTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student_GroupTbl" EntityType="Self.Student_GroupTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student_ProjectTbl" EntityType="Self.Student_ProjectTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StudentTbl" EntityType="Self.StudentTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TaskTbl" EntityType="Self.TaskTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TurnitinTbl" EntityType="Self.TurnitinTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VoteTbl" EntityType="Self.VoteTbl" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__DaysTable__JuryI__39AD8A7F" Association="Self.FK__DaysTable__JuryI__39AD8A7F">
+      <End Role="JuriesTbl" EntitySet="JuriesTbl" />
+      <End Role="DaysTable" EntitySet="DaysTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Assistan_ProjectTbl_AssistantTbl" Association="Self.FK_Assistan_ProjectTbl_AssistantTbl">
+      <End Role="AssistantTbl" EntitySet="AssistantTbl" />
+      <End Role="Assistan_ProjectTbl" EntitySet="Assistan_ProjectTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Assistan_ProjectTbl_ProjectTbl" Association="Self.FK_Assistan_ProjectTbl_ProjectTbl">
+      <End Role="ProjectTbl" EntitySet="ProjectTbl" />
+      <End Role="Assistan_ProjectTbl" EntitySet="Assistan_ProjectTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AssistantTbl_ProjectTbl" Association="Self.FK_AssistantTbl_ProjectTbl">
+      <End Role="ProjectTbl" EntitySet="ProjectTbl" />
+      <End Role="AssistantTbl" EntitySet="AssistantTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DepartmentTbl_FacultyTbl" Association="Self.FK_DepartmentTbl_FacultyTbl">
+      <End Role="FacultyTbl" EntitySet="FacultyTbl" />
+      <End Role="DepartmentTbl" EntitySet="DepartmentTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FeedbackTbl_ProjectTbl" Association="Self.FK_FeedbackTbl_ProjectTbl">
+      <End Role="ProjectTbl" EntitySet="ProjectTbl" />
+      <End Role="FeedbackTbl" EntitySet="FeedbackTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FeedbackTbl_StudentTbl" Association="Self.FK_FeedbackTbl_StudentTbl">
+      <End Role="StudentTbl" EntitySet="StudentTbl" />
+      <End Role="FeedbackTbl" EntitySet="FeedbackTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GradeTbl_FacultyTbl" Association="Self.FK_GradeTbl_FacultyTbl">
+      <End Role="FacultyTbl" EntitySet="FacultyTbl" />
+      <End Role="GradeTbl" EntitySet="GradeTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GradeTbl_StudentTbl" Association="Self.FK_GradeTbl_StudentTbl">
+      <End Role="StudentTbl" EntitySet="StudentTbl" />
+      <End Role="GradeTbl" EntitySet="GradeTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Group_ProjectTbl_GroupTbl" Association="Self.FK_Group_ProjectTbl_GroupTbl">
+      <End Role="GroupTbl" EntitySet="GroupTbl" />
+      <End Role="Group_ProjectTbl" EntitySet="Group_ProjectTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Group_ProjectTbl_ProjectTbl" Association="Self.FK_Group_ProjectTbl_ProjectTbl">
+      <End Role="ProjectTbl" EntitySet="ProjectTbl" />
+      <End Role="Group_ProjectTbl" EntitySet="Group_ProjectTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PresentationsTbl_GroupTbl" Association="Self.FK_PresentationsTbl_GroupTbl">
+      <End Role="GroupTbl" EntitySet="GroupTbl" />
+      <End Role="PresentationsTbl" EntitySet="PresentationsTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Professor_ProjectTbl_ProfessorTbl" Association="Self.FK_Professor_ProjectTbl_ProfessorTbl">
+      <End Role="ProfessorTbl" EntitySet="ProfessorTbl" />
+      <End Role="Professor_ProjectTbl" EntitySet="Professor_ProjectTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Professor_ProjectTbl_ProjectTbl" Association="Self.FK_Professor_ProjectTbl_ProjectTbl">
+      <End Role="ProjectTbl" EntitySet="ProjectTbl" />
+      <End Role="Professor_ProjectTbl" EntitySet="Professor_ProjectTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProfessorTbl_AssistantTbl" Association="Self.FK_ProfessorTbl_AssistantTbl">
+      <End Role="AssistantTbl" EntitySet="AssistantTbl" />
+      <End Role="ProfessorTbl" EntitySet="ProfessorTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProfessorTbl_FacultyTbl" Association="Self.FK_ProfessorTbl_FacultyTbl">
+      <End Role="FacultyTbl" EntitySet="FacultyTbl" />
+      <End Role="ProfessorTbl" EntitySet="ProfessorTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_GroupTbl_GroupTbl" Association="Self.FK_Student_GroupTbl_GroupTbl">
+      <End Role="GroupTbl" EntitySet="GroupTbl" />
+      <End Role="Student_GroupTbl" EntitySet="Student_GroupTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_GroupTbl_StudentTbl" Association="Self.FK_Student_GroupTbl_StudentTbl">
+      <End Role="StudentTbl" EntitySet="StudentTbl" />
+      <End Role="Student_GroupTbl" EntitySet="Student_GroupTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_ProjectTbl_ProjectTbl" Association="Self.FK_Student_ProjectTbl_ProjectTbl">
+      <End Role="ProjectTbl" EntitySet="ProjectTbl" />
+      <End Role="Student_ProjectTbl" EntitySet="Student_ProjectTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_ProjectTbl_ProjectTbl1" Association="Self.FK_Student_ProjectTbl_ProjectTbl1">
+      <End Role="ProjectTbl" EntitySet="ProjectTbl" />
+      <End Role="Student_ProjectTbl" EntitySet="Student_ProjectTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_ProjectTbl_StudentTbl" Association="Self.FK_Student_ProjectTbl_StudentTbl">
+      <End Role="StudentTbl" EntitySet="StudentTbl" />
+      <End Role="Student_ProjectTbl" EntitySet="Student_ProjectTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudentTbl_ProfessorTbl" Association="Self.FK_StudentTbl_ProfessorTbl">
+      <End Role="ProfessorTbl" EntitySet="ProfessorTbl" />
+      <End Role="StudentTbl" EntitySet="StudentTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudentTbl_ProjectTbl" Association="Self.FK_StudentTbl_ProjectTbl">
+      <End Role="ProjectTbl" EntitySet="ProjectTbl" />
+      <End Role="StudentTbl" EntitySet="StudentTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TaskTbl_ProjectTbl" Association="Self.FK_TaskTbl_ProjectTbl">
+      <End Role="ProjectTbl" EntitySet="ProjectTbl" />
+      <End Role="TaskTbl" EntitySet="TaskTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TaskTbl_StudentTbl" Association="Self.FK_TaskTbl_StudentTbl">
+      <End Role="StudentTbl" EntitySet="StudentTbl" />
+      <End Role="TaskTbl" EntitySet="TaskTbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TurnitinTbl_GroupTbl" Association="Self.FK_TurnitinTbl_GroupTbl">
+      <End Role="GroupTbl" EntitySet="GroupTbl" />
+      <End Role="TurnitinTbl" EntitySet="TurnitinTbl" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
